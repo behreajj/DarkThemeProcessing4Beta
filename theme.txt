@@ -184,7 +184,7 @@ editor.token.function4.style = #007fff,plain
 editor.token.keyword1.style = #00ff7f,plain
 editor.token.keyword2.style = #00ff7f,plain
 editor.token.keyword3.style = #7fff00,plain
-editor.token.keyword4.style = #d94a7a,plain
+editor.token.keyword4.style = #ff007f,plain
 
 # Primitive (int)
 editor.token.keyword5.style = #ff7f00,plain
