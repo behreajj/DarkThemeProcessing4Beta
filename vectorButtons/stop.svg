@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" width="1024" height="1024" viewBox="0 0 1024 1024">
+
+    <g id="camera" transform="translate(512.000000, 512.000000) scale(1.000000, -1.000000) rotate(0.0) translate(0.0, 0.0)">
+        <g id="bkgcircle" class="curveentity2" transform="translate(0.0, 0.0) rotate(0.0) scale(512.000000, 512.000000)">
+            <g id="fff7d5" class="materialsolid" stroke="none" fill-opacity="1.000000" fill="#fff7d5">
+                <path id="circle" class="curve2" fill-rule="evenodd" d="M 0.985000 0.0 C 0.985000 0.544000,0.544000 0.985000,0.0 0.985000 C -0.544000 0.985000,-0.985000 0.544000,-0.985000 0.0 C -0.985000 -0.544000,-0.544000 -0.985000,0.0 -0.985000 C 0.544000 -0.985000,0.985000 -0.544000,0.985000 0.0 Z" />
+            </g>
+            <g id="202020" class="materialsolid" stroke="none" fill-opacity="1.000000" fill="#202020">
+                <path id="circle" class="curve2" fill-rule="evenodd" d="M 0.911124 0.0 C 0.911124 0.503200,0.503200 0.911124,0.0 0.911124 C -0.503200 0.911124,-0.911124 0.503200,-0.911124 0.0 C -0.911124 -0.503200,-0.503200 -0.911124,0.0 -0.911124 C 0.503200 -0.911124,0.911124 -0.503200,0.911124 0.0 Z" />
+            </g>
+        </g>
+
+        <g id="stopcurveentity" class="curveentity2" transform="translate(0.0, 0.0) rotate(0.0) scale(512.000000, 512.000000)">
+            <g id="fff7d5" class="materialsolid" stroke="none" fill-opacity="1.000000" fill="#fff7d5">
+                <path id="stopcurve" class="curve2" fill-rule="evenodd" d="M -0.323935 -0.280986 C -0.323935 -0.301233,-0.301233 -0.323935,-0.280986 -0.323935 C -0.093661 -0.323935,0.093661 -0.323935,0.280986 -0.323935 C 0.301233 -0.323935,0.323935 -0.301233,0.323935 -0.280986 C 0.323935 -0.093661,0.323935 0.093661,0.323935 0.280986 C 0.323935 0.301233,0.301233 0.323935,0.280986 0.323935 C 0.093661 0.323935,-0.093661 0.323935,-0.280986 0.323935 C -0.301233 0.323935,-0.323935 0.301233,-0.323935 0.280986 C -0.323935 0.093661,-0.323935 -0.093661,-0.323935 -0.280986 Z" />
+            </g>
+        </g>
+
+    </g>
+</svg>
